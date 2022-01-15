@@ -1,0 +1,86 @@
+﻿  Collision.cpp
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(58,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(57,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Collision.cpp(17,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Collision.cpp(18,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Collision.cpp(20,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Collision.cpp(22,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Collision.cpp(24,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Collision.cpp(25,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Collision.cpp(28,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Collision.cpp(29,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  GameEntity.cpp
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(58,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(57,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GameManager.cpp
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(58,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(57,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Ghost.cpp
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(58,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(57,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Graphics.cpp
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(58,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(57,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Graphics.cpp(61,35): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Graphics.cpp(61,35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Graphics.cpp(61,45): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Graphics.cpp(61,45): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Graphics.cpp(95,16): warning C4778: 'printf' : unterminated format string '%\n'
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Graphics.cpp(95,57): warning C4474: 'printf' : too many arguments passed for format string
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Graphics.cpp(95,57): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  GUI.cpp
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(58,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(57,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(58,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(57,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Map.cpp
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(58,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(57,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(32,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(32,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(36,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(36,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(40,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(40,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(44,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(44,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(48,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(48,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(52,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(52,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(56,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(56,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(60,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(60,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(64,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(64,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(68,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(68,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(110,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(110,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(112,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Map.cpp(112,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pellet.cpp
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(58,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(57,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Player.cpp
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(58,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(57,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  PowerUp.cpp
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(58,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(57,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Splash.cpp
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(58,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(57,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Texture.cpp
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(58,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\include\MathUtility.h(57,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Texture.cpp(32,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\RetroRecreation\source\Texture.cpp(33,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Timer.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 313 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RetroRecreation.vcxproj -> D:\JOSHUA\Documents\git_repos\ct4102-assignment-2-retrogame-JoshuaRiches\RetroRecreation\Release\RetroRecreation.exe
