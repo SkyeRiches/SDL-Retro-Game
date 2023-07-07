@@ -11,6 +11,9 @@ The gameplay is very much like the classic arcade game, except its controlled wi
 There are also the ghosts moving around different parts of the maze, and colliding with them will cause you to lose a life. However, like the classic game, you can collect power pellets to turn on the ghosts and be able to eat them instead.
 At the end of the game (be it through success or failure), your score is saved to the leaderboard.
 
+# Video
+https://www.youtube.com/watch?v=oAaZ2XBBSu8
+
 # Possible Improvements
 - I could change the ghost ai to actually chase the player rather than just staying on their path
 - I could add difficulty levels so each time you complete a maze it gets harder
